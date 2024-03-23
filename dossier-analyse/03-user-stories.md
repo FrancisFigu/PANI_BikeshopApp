@@ -2,7 +2,7 @@
 
 ## Utilisateur 'client' crée un compte ##
 
-En tant que client du bike shop je veux créer un compte sur l'app pour pouvoir prendre rdv facilement pour un ou plusieurs de ses services :  
+En tant que client du bike shop je veux créer un compte sur l'app pour pouvoir prendre rdv facilement pour un ou plusieurs de ces services :  
 
 - Faire réparer mon vélo. 
 
