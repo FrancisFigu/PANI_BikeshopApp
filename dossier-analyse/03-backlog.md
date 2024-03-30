@@ -4,12 +4,7 @@
 
 ### Utilisateur 'client' crée un compte ###
 
-En tant que client du bike shop je veux créer un compte sur l'app pour pouvoir prendre rdv facilement pour un ou plusieurs de ces services :  
-
-- Faire réparer mon vélo. 
-- Tester un nouveau vélo. 
-- Suivre un cours en mécanique.  
-- Louer un vélo.
+En tant que client du bike shop je veux créer un compte sur l'app pour pouvoir prendre rdv facilement pour un ou plusieurs des services. 
 
 ### Utilisateur 'client' récupère son mdp ### 
 
