@@ -38,9 +38,10 @@ En tant qu’utilisateur client, je veux pouvoir prendre un rdv pour un des diff
 
 ### 7.- Utilisateur client vérifie ses rdvs ###  
 
-En tant qu’utilisateur client, je veux pouvoir vérifier mes rdvs actifs et passés. 
+En tant qu’utilisateur client, je veux pouvoir vérifier mes rdvs actifs et passés. Je veux voir la date, le service et le magasin. 
 
-### 8.- Utilisateur client annule un rdv ###  
+
+### 9.- Utilisateur client annule un rdv ###  
 
 En tant qu’utilisateur client, je veux pouvoir annuler un rdv. 
 
