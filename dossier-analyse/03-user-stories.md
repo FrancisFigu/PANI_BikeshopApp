@@ -1,16 +1,27 @@
 # User stories #
 
-## Utilisateur 'client' crée un compte ##
+## User stories de 'sign-up' et 'log-in' ##
+
+### Utilisateur 'client' crée un compte ###
 
 En tant que client du bike shop je veux créer un compte sur l'app pour pouvoir prendre rdv facilement pour un ou plusieurs de ces services :  
 
 - Faire réparer mon vélo. 
-
 - Tester un nouveau vélo. 
-
 - Suivre un cours en mécanique.  
+- Louer un vélo.
 
-- Louer un vélo.  
+### Utilisateur 'client' récupère son mdp ### 
+
+En tant qu’utilisateur client je veux pouvoir réinitialiser mon mdp en cas d’oubli.  
+
+### Utilisateur 'client' reste connecté ### 
+
+En tant qu’utilisateur client je veux avoir l’option de rester connecté sur l’application, pour ne pas devoir me connecter à chaque utilisation. 
+
+### Utilisateur 'client' fait entre des coordonnées erronées ### 
+
+En tant qu’utilisateur client je veux avoir un message d’erreur si je me trompe au moment du log-in.
 
 ## Utilisateur 'client' vérifie ses rdvs actifs  ##
 
