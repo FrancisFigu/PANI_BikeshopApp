@@ -1,8 +1,8 @@
 # Analyse fonctionnelle # 
 
-## Description générale ## 
+## Description générale BikeRentApp ## 
 
-Les fonctions principales de l’applications sont : 
+Les fonctions principales de l’application de gestion de locations de vélos sont : 
 
 - Gérer les réservations   
 
