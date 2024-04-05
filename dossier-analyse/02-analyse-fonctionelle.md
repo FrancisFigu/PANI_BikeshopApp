@@ -4,15 +4,15 @@
 
 Les fonctions principales de l’applications sont : 
 
-Gérer les réservations   
+- Gérer les réservations   
 
-Gérer les payements 
+- Gérer les payements 
 
-Montrer en temps réel la disponibilité 
+- Montrer en temps réel la disponibilité 
 
-Montrer en temps réel l’état de chaque vélo 
+- Montrer en temps réel l’état de chaque vélo 
 
-Notifier tous les acteurs à chaque étape 
+- Notifier tous les acteurs à chaque étape 
 
 Sur le diagramme UML ci-dessous, il est possible de visualiser le processus fonctionnel principal que l’application prendra en charge : 
 
