@@ -1,24 +1,14 @@
-# Dossier d'analyse application BikeShopApp #
+# Dossier d'analyse application BikeRentApp #
 ## Contexte ##
 
-La chaine de magasins de vélo Cyclo a plusieurs locaux à Bruxelles. Les activités principales de Cyclo sont : 
+Cas d’étude : La chaine de magasins de vélo Cyclo a plusieurs locaux à Bruxelles. L’activité principale de Cyclo est la réparation de vélos et la vente d’accessoires, cependant, Cyclo a aussi des flottes de vélos de location dans certains de ses locaux. La location, étant une activité secondaire de Cyclo, n’a pas encore été modernisée au niveau de la gestion. Jusqu'au présent, les réservations sont gérées par email et téléphone, avec l’aide d’un tableaux Excel. Aucun outil d’automatisation a encore été mis en place.  
 
-- Réparation de vélos. 
+Dans la gestion actuelle, il existe plusieurs aspects qui pourraient être améliorés avec l’aide d’une application de gestion :  
 
-- Vente de nouveaux vélos. 
+Temps de travail : Le temps d’un collaborateur, pour faire le suivi des emails et la coordination de réservations sur le tableau Excel est trop important. Une grande partie de ce travail pourrait être automatisé. 
 
-- Location de vélos. 
+Erreurs de gestion : Puisque la gestion est faite de manière “manuelle”, les erreurs liés aux réservations sont récurrentes. Una application pourrait aider diminuer les erreurs.   
 
-- Cours de mécanique vélo. 
+Expérience client : Pour le moment, les confirmations de réservations ne se font pas en temps réel et elles peuvent prendre jusqu’à quelques jours. Une application pourrait donner une vue en temps réel de vélos disponibles ainsi que faire et confirmer une réservation.  
 
-Actuellement, Cyclo ne compte pas avec un système de prise de rdvs ni pour les réparations ni pour les tests de nouveaux vélos. Les réservations pour la location de vélos se font par téléphone et le suivi est fait sur un tableau Excel. Les réservations pour les cours de mécanique vélo se font via l’application web Eventbrite. 
-
-Cyclo a pour objectif de centraliser les réservations et gestion de rdvs pour les différents services et différents locaux sur une même plateforme. Cela a pour but de :   
-
-- Faciliter l’expérience de clients au moment de réserver un service. 
-
-- Diminuer les heures de pointe, surtout en haute saison, en distribuant les rdvs intelligemment pendant les heures d’ouverture de différents magasins.  
-
-- Mieux visualiser et suivre l’historique des clients pour tous les différents services.  
-
-- Mieux visualiser la charge de travail de chaque local à des différents périodes. 
+Payements : Les payements sont actuellement faits sur place et les cautions sont gérées en liquide. Une application pourrait prendre en charge tous les payements et cautions en avance.  
