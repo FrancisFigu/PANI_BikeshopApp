@@ -58,4 +58,23 @@ Les utilisateurs de l’applications sont :
   Qui utilise le calendrier de locations pour organiser son travail et préparer les vélos à louer.  
 
 - ### L’utilisateur administrateur : ###
-  Qui gère les flottes de vélos et les magasins où les vélos se trouvent. 
+  Qui gère les flottes de vélos et les magasins où les vélos se trouvent.
+
+## Ecrans ## 
+
+### Ecran “Step 1: choose the dates” ### 
+<img src="./images/img-choose-date.png" alt="Alt text" style="height:600px;">
+ 
+
+### Ecran “Step 2: choose the bike” ### 
+
+ 
+
+### Ecran “Step 3: choose the location” ### 
+
+### Ecran “Step 4: add other bike or proceed to payment” ### 
+
+
+
+
+ 
