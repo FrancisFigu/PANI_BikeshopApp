@@ -65,15 +65,14 @@ Les utilisateurs de l’applications sont :
 ### Ecran “Step 1: choose the dates” ### 
 <img src="./images/img-choose-date.png" alt="Alt text" style="height:600px;">
  
-
 ### Ecran “Step 2: choose the bike” ### 
-
- 
+<img src="./images/img-choose-bike.png" alt="Alt text" style="height:600px;">
 
 ### Ecran “Step 3: choose the location” ### 
+<img src="./images/img-choose-location.png" alt="Alt text" style="height:600px;">
 
 ### Ecran “Step 4: add other bike or proceed to payment” ### 
-
+<img src="./images/img-confirm.png" alt="Alt text" style="height:600px;">
 
 
 
