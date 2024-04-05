@@ -1,4 +1,8 @@
+# Analyse fonctionnelle # 
 
+## Description générale ## 
+
+Sur le diagramme UML ci-dessous, il est possible de visualiser le processus fonctionnel principal que l’application prendra en charge : 
 
 
 ````mermaid
