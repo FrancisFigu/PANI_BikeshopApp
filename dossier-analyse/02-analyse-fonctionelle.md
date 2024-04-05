@@ -51,8 +51,8 @@ flowchart TD
 
 Les utilisateurs de l’applications sont : 
 
-L’utilisateur client :  qui utilise l’application pour faire la réservation et le payement de la location d’un ou plusieurs vélos.  
+- ### L’utilisateur client : ### qui utilise l’application pour faire la réservation et le payement de la location d’un ou plusieurs vélos.  
 
-L’utilisateur collaborateur du magasin : qui utilise le calendrier de locations pour organiser son travail et préparer les vélos à louer.  
+- ### L’utilisateur collaborateur du magasin : ### qui utilise le calendrier de locations pour organiser son travail et préparer les vélos à louer.  
 
-L’utilisateur administrateur : qui gère les flottes de vélos et les magasins où les vélos se trouvent. 
+- ### L’utilisateur administrateur : ### qui gère les flottes de vélos et les magasins où les vélos se trouvent. 
