@@ -28,51 +28,8 @@ En tant qu’utilisateur client, je veux avoir un message d’erreur si je me tr
 
  
 
-## User stories rdvs d’un utilisateur client ## 
-
- 
-
-### 6.- Utilisateur client prend un rdv ###  
-
-En tant qu’utilisateur client, je veux pouvoir prendre un rdv pour un des différents services disponibles. 
-
-### 7.- Utilisateur client vérifie ses rdvs ###  
-
-En tant qu’utilisateur client, je veux pouvoir vérifier mes rdvs actifs et passés. Je veux voir la date, le service et le magasin. 
 
 
-### 9.- Utilisateur client annule un rdv ###  
 
-En tant qu’utilisateur client, je veux pouvoir annuler un rdv. 
-
- 
-
- 
-
- 
-
-### Utilisateur 'manageur' crée un compte magasin ### 
-
-En tant que manageur je veux créer un compte pour chaque magasin. Ainsi, chaque équipe de chaque magasin, pourra gérer les rdvs des clients.  
-
-## Utilisateur 'client' vérifie ses rdvs actifs  ## 
-
-En tant que client du bike shop je veux pouvoir visualiser mes rdvs actifs, je veux voir un rappel de la date, le service et le magasin. Je veux aussi avoir la possibilité de changer mon rdv sur l’app.  
-
-## Utilisateur 'client' prend un rdv pour une réparation ##  
-
-En tant que client du bike shop et utilisateur de l'application, je veux pouvoir prendre un rdv pour faire réparer mon vélo. Je veux pouvoir choisir le jour, l’heure et le magasin.   
-
-## Utilisateur 'client' change un rdv pour une réparation ##  
-
-En tant que client du bike shop et utilisateur de l'application, je veux pouvoir changer un rdv existant.   
-
-## Utilisateur 'client' annule un rdv pour une réparation ##  
-
-En tant que client du bike shop et utilisateur de l'application, je veux pouvoir annuler un rdv existant.   
-
-## Utilisateur 'staff' vérifie les rdvs actifs pour les réparations##  
-
-En tant collaborateur du bike shop, je veux pouvoir visualiser les rdvs existants.  Pour la journée, la semaine et le mois complet.   
 
  
