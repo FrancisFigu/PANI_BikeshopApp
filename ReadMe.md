@@ -10,6 +10,6 @@ Année académique : 2023 – 2024
 
 Etudiant : FIGUEROA Francisco  
 
-Exercice : Développement du dossier d'analyse de l’application (fictive) BikeShopAPP. 
+Exercice : Développement du dossier d'analyse de l’application (fictive) BikeRentAPP. 
 
 [dossier-analyse](./dossier-analyse/)
