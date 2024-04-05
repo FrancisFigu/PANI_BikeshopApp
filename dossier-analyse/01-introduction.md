@@ -1,7 +1,7 @@
 # Dossier d'analyse application BikeRentApp #
 ## Contexte ##
 
-Cas d’étude : La chaine de magasins de vélo Cyclo a plusieurs locaux à Bruxelles. L’activité principale de Cyclo est la réparation de vélos et la vente d’accessoires, cependant, Cyclo a aussi des flottes de vélos de location dans certains de ses locaux. La location, étant une activité secondaire de Cyclo, n’a pas encore été modernisée au niveau de la gestion. Jusqu'au présent, les réservations sont gérées par email et téléphone, avec l’aide d’un tableaux Excel. Aucun outil d’automatisation a encore été mis en place.  
+La chaine de magasins de vélo Cyclo a plusieurs locaux à Bruxelles. L’activité principale de Cyclo est la réparation de vélos et la vente d’accessoires, cependant, Cyclo a aussi des flottes de vélos de location dans certains de ses locaux. La location, étant une activité secondaire de Cyclo, n’a pas encore été modernisée au niveau de la gestion. Jusqu'au présent, les réservations sont gérées par email et téléphone, avec l’aide d’un tableaux Excel. Aucun outil d’automatisation a encore été mis en place.  
 
 Dans la gestion actuelle, il existe plusieurs aspects qui pourraient être améliorés avec l’aide d’une application de gestion :  
 
