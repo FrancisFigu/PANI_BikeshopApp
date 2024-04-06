@@ -4,7 +4,7 @@
 
 - ### Client crée un compte ###  
 
- En tant que client, je veux pouvoir créer un compte pour gérer mes locations des vélos chez Cyclo.   
+       En tant que client, je veux pouvoir créer un compte pour gérer mes locations des vélos chez Cyclo.   
 
  - ### Client fait un log-in ###   
 
