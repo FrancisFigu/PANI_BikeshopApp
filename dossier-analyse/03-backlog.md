@@ -2,11 +2,11 @@
 
 ## User stories d'authentification - utilisateur client ##   
 
-### Client crée un compte ###  
+- ### Client crée un compte ###  
 
  En tant que client, je veux pouvoir créer un compte pour gérer mes locations des vélos chez Cyclo.   
 
- ### Client fait un log-in ###   
+ - ### Client fait un log-in ###   
 
  En tant que client, je veux pouvoir me ‘logger’ pour avoir accès à mon ‘dashboard’.   
 
