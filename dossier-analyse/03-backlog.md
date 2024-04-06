@@ -1,30 +1,72 @@
-# User stories # 
+# User stories #  
 
- 
+## User stories d'authentification - utilisateur client ##   
 
- ## User stories de 'sign-up' et 'log-in' d’un utilisateur client ## 
+### Client crée un compte ###  
 
- 
+ En tant que client, je veux pouvoir créer un compte pour gérer mes locations des vélos chez Cyclo.   
 
- ### 01.- Utilisateur client crée un compte ### 
+ ### Client fait un log-in ###   
 
-En tant que client du bike shop, je veux créer un compte sur l'app pour pouvoir prendre des rdvs facilement pour un ou plusieurs des services disponibles.  
+ En tant que client, je veux pouvoir me ‘logger’ pour avoir accès à mon ‘dashboard’.   
 
-### 02.- Utilisateur client fait un log-in dans l’application ###  
+ ### Client récupère son mdp ###   
 
-En tant qu’utilisateur client, je veux pouvoir me ‘logger’ pour avoir accès à mon ‘dashboard’.  
+ En tant que client, je veux pouvoir réinitialiser mon mdp en cas d’oubli.    
 
-### 03.- Utilisateur client récupère son mdp ###  
+ ### Client choisi de rester connecté ###   
 
-En tant qu’utilisateur client, je veux pouvoir réinitialiser mon mdp en cas d’oubli.   
+ En tant que client, je veux pouvoir rester connecté, pour ne pas devoir me connecter à chaque utilisation.   
 
-### 04.- Utilisateur client choisi de rester connecté ###  
+### Client remplit des coordonnées erronées ###   
 
-En tant qu’utilisateur client je veux avoir l’option de rester connecté sur l’application, pour ne pas devoir me connecter à chaque utilisation. 
+ En tant que client, je veux avoir un message d’erreur si je me trompe au moment du log-in. 
 
-### 05.- Utilisateur client remplit des coordonnées erronées ###  
+## User stories de réservations de locations - utilisateur client ##    
 
-En tant qu’utilisateur client, je veux avoir un message d’erreur si je me trompe au moment du log-in. 
+### Client choisi une période de location (dates) ###     
+
+En tant qu’utilisateur client, je veux avoir un calendrier pour pouvoir facilement visualiser et choisir les dates de la location.   
+
+ ### Client choisi un vélo ###   
+
+En tant qu’utilisateur client, je veux pouvoir visualiser les vélos disponibles pour louer pendant les dates choisis. Je veux pouvoir cliquer sur un vélo pour voir plus en détail ses spécifications.    
+
+ ### Client choisi un magasin de ‘pickup’ et ‘drop-off’ ###   
+
+ En tant qu’utilisateur client, je veux pouvoir choisir le point de ‘pickup’ et ‘drop-off’ parmi les options disponible.  
+
+ ### Client confirme sélection ###   
+
+ En tant qu’utilisateur client, je veux pouvoir visualiser un résumé de mes sélections, avant de passer au payement.  
+
+## User stories de gestion de location - utilisateur collaborateur du magasin ##   
+
+### Collaborateur check calendrier de locations ### 
+
+En tant que collaborateur, je veux pouvoir consulter le calendrier de réservations et réservoir des notifications, pour bien organiser mon travail.  
+
+### Collaborateur notifie un client ### 
+
+En tant que collaborateur, je veux pouvoir notifier le client en cas de problème ou changement. 
+
+### Collaborateur reçoi une notification urgente ### 
+
+En tant que collaborateur, je veux être notifié en cas d’un problème pendant la location, pour pouvoir anticiper une solution.  
+
+## User stories d’administration - utilisateur manageur ## 
+
+### Manageur vérifie le statu des location ### 
+
+En tant que manageur, je veux pouvoir consulter l’état de toutes les locations de tous les magasins.  
+
+### Manageur modifie un magasin ### 
+
+En tant que manageur, je veux pouvoir ajouter, éliminer ou modifier les coordonnées et donnes des magasins, en cas de changements. 
+
+### Manageur modifie la flotte de vélos ### 
+
+En tant que manageur, je veux pouvoir ajouter, éliminer ou modifier les fiches des vélos enregistrés.
 
  
 
