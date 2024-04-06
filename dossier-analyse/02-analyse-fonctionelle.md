@@ -22,11 +22,11 @@ Sur le diagramme UML ci-dessous, il est possible de visualiser le processus fonc
     A(booking)
     -->B(payement)
     -->C(bike ready for pick-up)
-    -->D(drop-off & check)
-    D-->E(extra payements)
-    D-->G(repair)
-    -->F
-    D-->F(bike status OK)
+    -->D(rental)
+    -->E(drop-off & check)
+E-->C
+    E-->G(extra payements)
+    E-->F(repair)
     F-->C
 
 ````
