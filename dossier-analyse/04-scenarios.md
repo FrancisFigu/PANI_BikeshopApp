@@ -9,7 +9,7 @@
 
 - Client choisi un magasin de ‘pickup’ et ‘drop-off’ 
 
-- Client confirme sélection 
+- Client confirme sélection
 
 ### Préconditions ### 
 
@@ -18,6 +18,17 @@
 - Le client est authentifié 
 
 ### Scénario 1 – happy flow ###
+````mermaid
+ flowchart TD
+    A(dashboard)
+    -->B(choose date)
+    -->C(choose bike)
+    -->D(choose pick up location)
+    -->E(choose drop-off location)
+    -->F(confirm)
+-->(proceed to payement)
+F--|re-start|-->B
+````
 
 - Depuis le ‘dashboard’ le client commence le processus en sélectionnant ‘ new booking’. 
 
