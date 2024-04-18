@@ -23,8 +23,10 @@
     A(dashboard)
     -->B(choose date)
     -->C(choose bike)
-    -->D(choose pick & drop locations)
-    -->F(confirm)
+    -->D(choose location)
+    D-->E(see location on map)
+    E-->D 
+    D-->F(confirm)
 -->G(proceed to payement)
 F--|re-start|-->B
 ````
