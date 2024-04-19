@@ -22,31 +22,34 @@
  flowchart TB
     A(dashboard)
     -->B(choose date)
-    -->C(choose bike)
-    -->D(choose location)
-    D-->E(see location on map)
-    E-->D 
+    -->C(choose location)
+    -->D(choose bike)
     D-->F(confirm)
 -->G(proceed to payement)
 F--|re-start|-->B
+F--|add|-->D
 ````
 
 - Depuis le ‘dashboard’ le client commence le processus en sélectionnant ‘ new booking’. 
 
 - La première sélection à faire est la date, la sélection de dates se fait sur le calendrier.
+
 <img src="./images/img-choose-date.png" alt="Alt text" style="height:300px;">
 
 - Ensuite, l’utilisateur choisi un vélo parmi les options que sont disponibles dans les dates choisis précédemment.
+
 <img src="./images/img-choose-bike.png" alt="Alt text" style="height:300px;">
 
 - L’utilisateur est demandé si un ’autre vélo doit être ajouté au panier.  
 
 - Après, l’utilisateur sélectionne le magasin de ‘pick up’ parmi les options disponibles pour les dates et le type de vélo choisi.
+
 <img src="./images/img-choose-location.png" alt="Alt text" style="height:300px;">
 
 - Puis, l’utilisateur sélectionne le magasin de ‘drop off’.
   
 - Pour finir, l’utilisateur est amené sur une page résumée (panier), à partir d’où il est possible de revenir en arrière pour modifier, ou bien confirmer et passer au processus de payement.
+
 <img src="./images/img-confirm.png" alt="Alt text" style="height:300px;">  
 
 ### Postconditions ### 
