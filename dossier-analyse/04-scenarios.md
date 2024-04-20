@@ -60,10 +60,10 @@ F--|add|-->D
 
 ### Postconditions : ### 
 
-- Le vélo est remis en statut ‘disponible'. 
+- Le vélo est remis en statut ‘disponible'
 
 ### Règles métier : ### 
 
 - Le collaborateur doit pouvoir changer le statut d’un vélo à n’importe quel moment 
-- Au moment où le vélo est mis en statut ‘in-repair’ le système doit enlever ce vélo du pool de vélos disponibles. 
-- Au moment où le vélo est remis en statut ‘disponible’ le système doit ajouter ce vélo dans le pool de vélos disponibles. 
+- Au moment où le vélo est mis en statut ‘in-repair’ le système doit enlever ce vélo du pool de vélos disponibles
+- Au moment où le vélo est remis en statut ‘disponible’ le système doit ajouter ce vélo dans le pool de vélos disponibles
