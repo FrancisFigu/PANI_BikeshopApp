@@ -54,9 +54,9 @@ F--|add|-->D
 ### Séquence d’écrans : ###
 <img src="./images/img-dashboard-shop.png" alt="Alt text" style="height:250px;"><img src="./images/img-available.png" alt="Alt text" style="height:250px;"><img src="./images/img-in-repair.png" alt="Alt text" style="height:250px;">
 
-- Collaborateur sélectionne le vélo sur le dashboard 
-- Collaborateur change le statut à ‘in-repair’ sur la page du vélo 
-- Collaborateur change le statut à ‘available’ sur la page du vélo 
+- Dashboard : Collaborateur sélectionne le vélo sur le dashboard 
+- Page vélo : Collaborateur change le statut à ‘in-repair’ sur la page du vélo 
+- Page vélo : Collaborateur change le statut à ‘available’ sur la page du vélo 
 
 ### Postconditions : ### 
 
