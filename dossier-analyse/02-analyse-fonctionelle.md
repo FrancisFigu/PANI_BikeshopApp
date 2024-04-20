@@ -67,5 +67,7 @@ Les utilisateurs de l’applications sont :
   - Page de la reservation
   - Page du profil client
 
+  <img src="./images/img-dashboard-shop.png" alt="Alt text" style="height:250px;"><img src="./images/img-available.png" alt="Alt text" style="height:250px;"><img src="./images/img-in-repair.png" alt="Alt text" style="height:250px;">
+
 
  
