@@ -68,3 +68,36 @@ F--|add|-->D
 - Le collaborateur doit pouvoir changer le statut d’un vélo à n’importe quel moment 
 - Au moment où le vélo est mis en statut ‘in-repair’ le système doit enlever ce vélo du pool de vélos disponibles
 - Au moment où le vélo est remis en statut ‘disponible’ le système doit ajouter ce vélo dans le pool de vélos disponibles
+
+<h2 id="link03"> 2.- Manageur modifie la flotte de vélos<h2/>
+
+### Préconditions : ###  
+
+- Le manageur est authentifié 
+- Au moins un magasin a été configuré 
+````mermaid
+ flowchart TB
+    A(dashboard manageur)
+    -->B(sélectionne magasin)
+    B-->C(sélectionne vélo)
+    C-->D(modifie )
+    B-->F(ajoute vélo)
+    D-->A
+
+````
+### Séquence d’écrans : ###
+<img src="./images/img-dashboard-shop.png" alt="Alt text" style="height:250px;"><img src="./images/img-available.png" alt="Alt text" style="height:250px;"><img src="./images/img-in-repair.png" alt="Alt text" style="height:250px;">
+
+- Dashboard : Collaborateur sélectionne le vélo sur le dashboard 
+- Page vélo : Collaborateur change le statut à ‘in-repair’ sur la page du vélo 
+- Page vélo : Collaborateur change le statut à ‘available’ sur la page du vélo 
+
+### Postconditions : ### 
+
+- Le vélo est remis en statut ‘disponible'
+
+### Règles métier : ### 
+
+- Le collaborateur doit pouvoir changer le statut d’un vélo à n’importe quel moment 
+- Au moment où le vélo est mis en statut ‘in-repair’ le système doit enlever ce vélo du pool de vélos disponibles
+- Au moment où le vélo est remis en statut ‘disponible’ le système doit ajouter ce vélo dans le pool de vélos disponibles
