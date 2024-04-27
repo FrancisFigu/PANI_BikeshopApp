@@ -72,8 +72,8 @@
 
   En tant que manageur, je veux pouvoir ajouter, éliminer ou modifier les fiches des vélos enregistrés.
 
- 
 
+[>> scenarios](04-scenarios.md)
 
 
 

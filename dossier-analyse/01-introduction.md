@@ -11,4 +11,6 @@ Erreurs de gestion : Puisque la gestion est faite de manière “manuelle”, le
 
 Expérience client : Pour le moment, les confirmations de réservations ne se font pas en temps réel et elles peuvent prendre jusqu’à quelques jours. Une application pourrait donner une vue en temps réel de vélos disponibles ainsi que faire et confirmer une réservation.  
 
-Payements : Les payements sont actuellement faits sur place et les cautions sont gérées en liquide. Une application pourrait prendre en charge tous les payements et cautions en avance.  
+Payements : Les payements sont actuellement faits sur place et les cautions sont gérées en liquide. Une application pourrait prendre en charge tous les payements et cautions en avance. 
+
+[>> analyse fonctionelle](02-analyse-fonctionelle.md)
