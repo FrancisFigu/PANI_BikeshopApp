@@ -20,7 +20,7 @@
 
 ## User stories de réservations de locations - utilisateur client ##    
 
-- ### Client fait une réservation [>> voir scenario](04-scenarios.md "1.- Réservation de locations – utilisateur client") ###     
+- ### Client fait une réservation ### [>> voir scenario](04-scenarios.md "1.- Réservation de locations – utilisateur client")      
 
   En tant client, je veux pouvoir faire une réservation pour la location d’un vélo, afin de pouvoir organiser mon activité/voyage avec du temps.      
 - ### Client modifie une réservation ###   
@@ -34,7 +34,7 @@
 
   En tant que collaborateur, je veux pouvoir consulter le calendrier de réservations et réservoir des notifications, pour bien organiser mon travail.
 
-- ### Collaborateur change statut d'un vélo (available <--> in-repair) [>> voir scenario](04-scenarios.md "2.- Changement de statut ‘available’ <--> ‘in-repair’ – utilisateur collaborateur du magasin")  ### 
+- ### Collaborateur change statut d'un vélo (available <--> in-repair) ### [>> voir scenario](04-scenarios.md "2.- Changement de statut ‘available’ <--> ‘in-repair’ – utilisateur collaborateur du magasin")  
 
   En tant que collaborateur, je veux pouvoir changer le statut d'un vélo endommagé à 'in-repair' et pouvoir le remettre en état 'available' une fois que la réparation est faite. 
 
