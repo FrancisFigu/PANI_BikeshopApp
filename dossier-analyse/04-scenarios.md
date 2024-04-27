@@ -1,26 +1,13 @@
 
-# Scenarios réservation de locations – utilisateur client # 
+# Liste de Scénarios # 
+## 1.- Réservation de locations – utilisateur client # 
+### Préconditions : ### 
 
-### Les scénarios de réservation de locations inclus les ‘User Stories’ suivantes : ###
-
-- Client choisi une période de location (dates) 
-
-- Client choisi un vélo 
-
-- Client choisi un magasin de ‘pickup’ et ‘drop-off’ 
-
-- Client confirme sélection
-
-### Préconditions ### 
-
-- Le client a déjà un compte 
-
-- Le client est authentifié 
-
-### Scénario 1 – happy flow ###
+ - Le client a déjà un compte 
+ - Le client est authentifié 
 ````mermaid
  flowchart TB
-    A(dashboard)
+    A(dashboard client)
     -->B(choose date)
     -->C(choose location)
     -->D(choose bike)
@@ -29,37 +16,54 @@
 F--|re-start|-->B
 F--|add|-->D
 ````
+### Séquence d’écrans : ###
+<img src="./images/img-dashboard.png" alt="Alt text" style="height:300px;"><img src="./images/img-choose-date.png" alt="Alt text" style="height:300px;"><img src="./images/img-choose-location.png" alt="Alt text" style="height:300px;"><img src="./images/img-choose-bike.png" alt="Alt text" style="height:300px;"><img src="./images/img-confirm.png" alt="Alt text" style="height:300px;">
 
-- Depuis le ‘dashboard’ le client commence le processus en sélectionnant ‘ new booking’. 
+ - Dashboard : Client commence le processus en sélectionnant ‘add booking’ 
+ - Step 1 : Client sélectionne les dates sur le calendrier 
+ - Step 2 : Client sélectionne le magasin 
+ - Step 3 : Client choisi un vélo  
+ - Step 4 : Pour finir, l’utilisateur est amené sur une page résumée (panier), à partir d’où il est possible d'annuler (recommencer), ajouter un vélo ou bien confirmer et passer au processus de payement. 
 
-- La première sélection à faire est la date, la sélection de dates se fait sur le calendrier.
+### Postconditions : ### 
 
-<img src="./images/img-choose-date.png" alt="Alt text" style="height:300px;">
+ - Le client est mené au processus de payement 
+ - Si le processus de payement est complété correctement, des notifications sont envoyées tant vers le client que vers le magasin 
 
-- Ensuite, l’utilisateur choisi un vélo parmi les options que sont disponibles dans les dates choisis précédemment.
+### Règles métier : ### 
 
-<img src="./images/img-choose-bike.png" alt="Alt text" style="height:300px;">
+ - La date de début de la location doit être plus petite que la date de fin 
+ - Le nombre de vélos choisis ne doit pas dépasser le nombre de vélos disponibles pour location dans les magasins pour les dates sélectionnées.
 
-- L’utilisateur est demandé si un ’autre vélo doit être ajouté au panier.  
+## 2.- Changement de statut ‘available’ <--> ‘in-repair’ – utilisateur collaborateur du magasin ## 
 
-- Après, l’utilisateur sélectionne le magasin de ‘pick up’ parmi les options disponibles pour les dates et le type de vélo choisi.
+### Préconditions : ###  
 
-<img src="./images/img-choose-location.png" alt="Alt text" style="height:300px;">
+- Le magasin est authentifié
+- Le vélo a été ajouté au pool de vélos de location
+````mermaid
+ flowchart TB
+    A(dashboard magasin)
+    -->B(sélectionne vélo)
+    -->C(change statut à 'in-repair')
+    C-->A
+    B-->D(change statut à 'available')
+    D-->A
 
-- Puis, l’utilisateur sélectionne le magasin de ‘drop off’.
-  
-- Pour finir, l’utilisateur est amené sur une page résumée (panier), à partir d’où il est possible de revenir en arrière pour modifier, ou bien confirmer et passer au processus de payement.
+````
+### Séquence d’écrans : ###
+<img src="./images/img-dashboard-shop.png" alt="Alt text" style="height:250px;"><img src="./images/img-available.png" alt="Alt text" style="height:250px;"><img src="./images/img-in-repair.png" alt="Alt text" style="height:250px;">
 
-<img src="./images/img-confirm.png" alt="Alt text" style="height:300px;">  
+- Dashboard : Collaborateur sélectionne le vélo sur le dashboard 
+- Page vélo : Collaborateur change le statut à ‘in-repair’ sur la page du vélo 
+- Page vélo : Collaborateur change le statut à ‘available’ sur la page du vélo 
 
-### Postconditions ### 
+### Postconditions : ### 
 
-- Le client est mené au processus de payement 
+- Le vélo est remis en statut ‘disponible'
 
-- Si le processus de payement est complété correctement, des notifications sont envoyées tant vers le client que vers le magasin 
+### Règles métier : ### 
 
-### Règles métier ### 
-
-- La date de début de la location doit être plus petite que la date de fin 
-
-- Le nombre de vélos choisis ne doit pas dépasser le nombre de vélos disponibles pour location dans les magasins pour les dates sélectionnées.
+- Le collaborateur doit pouvoir changer le statut d’un vélo à n’importe quel moment 
+- Au moment où le vélo est mis en statut ‘in-repair’ le système doit enlever ce vélo du pool de vélos disponibles
+- Au moment où le vélo est remis en statut ‘disponible’ le système doit ajouter ce vélo dans le pool de vélos disponibles

@@ -45,21 +45,29 @@ Les utilisateurs de l’applications sont :
 
 ## Ecrans ## 
 
-### Liste d'ecrans du client ### 
+- ### Liste d'ecrans du client ### 
 
-- Create account 
-- Sign-in 
-- Dashboard 
-- Choose dates 
-- Choose location 
-- Choose bike 
-- Confirm 
-- Cancel a booking 
-- Notify a problem 
+  - Create account 
+  - Sign-in 
+  - Dashboard 
+  - Choose dates 
+  - Choose location 
+  - Choose bike 
+  - Confirm 
+  - Cancel a booking 
+  - Notify a problem 
 
 
 <img src="./images/img-create-account.png" alt="Alt text" style="height:300px;"><img src="./images/img-log-in.png" alt="Alt text" style="height:300px;"><img src="./images/img-dashboard.png" alt="Alt text" style="height:300px;"><img src="./images/img-choose-date.png" alt="Alt text" style="height:300px;"><img src="./images/img-choose-location.png" alt="Alt text" style="height:300px;"><img src="./images/img-choose-bike.png" alt="Alt text" style="height:300px;"><img src="./images/img-confirm.png" alt="Alt text" style="height:300px;"><img src="./images/img-cancel.png" alt="Alt text" style="height:300px;"><img src="./images/img-notify-problem.png" alt="Alt text" style="height:300px;">
 
+- ### Liste d'ecrans du collaborateur du magasin ### 
+
+  - Dashboard / planning view 
+  - Page du vélo 
+  - Page de la reservation
+  - Page du profil client
+
+  <img src="./images/img-dashboard-shop.png" alt="Alt text" style="height:250px;"><img src="./images/img-available.png" alt="Alt text" style="height:250px;"><img src="./images/img-in-repair.png" alt="Alt text" style="height:250px;">
 
 
  
