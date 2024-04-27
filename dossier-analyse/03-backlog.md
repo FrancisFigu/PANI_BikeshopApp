@@ -34,7 +34,7 @@
 
   En tant que collaborateur, je veux pouvoir consulter le calendrier de réservations et réservoir des notifications, pour bien organiser mon travail.
 
-- ### Collaborateur change statut d'un vélo (available <--> in-repair)[>> voir scenario](04-scenarios.md title="2.- Changement de statut ‘available’ <--> ‘in-repair’ – utilisateur collaborateur du magasin")  ###
+- ### Collaborateur change statut d'un vélo (available <--> in-repair) ### [>> voir scenario](04-scenarios.md "2.- Changement de statut ‘available’ <--> ‘in-repair’ – utilisateur collaborateur du magasin")  
 
   En tant que collaborateur, je veux pouvoir changer le statut d'un vélo endommagé à 'in-repair' et pouvoir le remettre en état 'available' une fois que la réparation est faite. 
 
