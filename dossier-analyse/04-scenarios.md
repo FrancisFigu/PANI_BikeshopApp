@@ -35,7 +35,7 @@ F--|add|-->D
  - La date de début de la location doit être plus petite que la date de fin 
  - Le nombre de vélos choisis ne doit pas dépasser le nombre de vélos disponibles pour location dans les magasins pour les dates sélectionnées.
 
-## [2.- Changement de statut ‘available’ <--> ‘in-repair’ – utilisateur collaborateur du magasin][2] ## 
+## 2.- Changement de statut ‘available’ <--> ‘in-repair’ – utilisateur collaborateur du magasin ## 
 
 ### Préconditions : ###  
 
