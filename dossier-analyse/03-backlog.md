@@ -44,7 +44,11 @@
 
 ## User stories d’administration - utilisateur manageur ## 
 
-- ### Manageur vérifie le statu des location ### 
+- ### Manageur modifie la flotte de vélos ### 
+
+  En tant que manageur, je veux pouvoir ajouter, éliminer ou modifier les fiches des vélos enregistrés.
+
+- ### Manageur vérifie le statu des locations ### 
 
   En tant que manageur, je veux pouvoir consulter l’état de toutes les locations de tous les magasins.  
 
@@ -52,9 +56,6 @@
 
   En tant que manageur, je veux pouvoir ajouter, éliminer ou modifier les coordonnées et donnes des magasins, en cas de changements. 
 
-- ### Manageur modifie la flotte de vélos ### 
-
-  En tant que manageur, je veux pouvoir ajouter, éliminer ou modifier les fiches des vélos enregistrés.
 
 
 [>> scenarios](04-scenarios.md)
