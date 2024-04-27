@@ -70,4 +70,4 @@ Les utilisateurs de l’applications sont :
   <img src="./images/img-dashboard-shop.png" alt="Alt text" style="height:250px;"><img src="./images/img-available.png" alt="Alt text" style="height:250px;"><img src="./images/img-in-repair.png" alt="Alt text" style="height:250px;">
 
 
- 
+[>> backlog](03-backlog.md) 
