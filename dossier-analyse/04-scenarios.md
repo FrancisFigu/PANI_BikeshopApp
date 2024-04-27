@@ -1,6 +1,6 @@
 
 # Liste de Scénarios # 
-## 1.- Réservation de locations – utilisateur client # 
+<h2 id="link02"> 1.- Réservation de locations – utilisateur client <h2/> 
 ### Préconditions : ### 
 
  - Le client a déjà un compte 
@@ -35,7 +35,7 @@ F--|add|-->D
  - La date de début de la location doit être plus petite que la date de fin 
  - Le nombre de vélos choisis ne doit pas dépasser le nombre de vélos disponibles pour location dans les magasins pour les dates sélectionnées.
 
-<h2 id="test"> 2.- Changement de statut ‘available’ <--> ‘in-repair’ – utilisateur collaborateur du magasin<h2/>
+<h2 id="link02"> 2.- Changement de statut ‘available’ <--> ‘in-repair’ – utilisateur collaborateur du magasin<h2/>
 
 ### Préconditions : ###  
 
