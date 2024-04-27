@@ -1,6 +1,7 @@
 
 # Liste de Scénarios # 
-<h2 id="link02"> 1.- Réservation de locations – utilisateur client <h2/> 
+<h2 id="link02"> 1.- Réservation de locations – utilisateur client<h2/> 
+ 
 ### Préconditions : ### 
 
  - Le client a déjà un compte 
