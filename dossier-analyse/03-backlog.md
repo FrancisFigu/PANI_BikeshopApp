@@ -20,7 +20,7 @@
 
 ## User stories de réservations de locations - utilisateur client ##    
 
-- ### Client fait une réservation ### [>> voir scenario](04-scenarios.md "1.- Réservation de locations – utilisateur client")      
+- ### Client fait une réservation [>> voir scenario](04-scenarios.md "1.- Réservation de locations – utilisateur client") ###      
 
   En tant client, je veux pouvoir faire une réservation pour la location d’un vélo, afin de pouvoir organiser mon activité/voyage avec du temps.      
 - ### Client modifie une réservation ###   
