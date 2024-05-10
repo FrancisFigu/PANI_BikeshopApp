@@ -69,7 +69,7 @@ F--|add|-->D
 - Au moment où le vélo est mis en statut ‘in-repair’ le système doit enlever ce vélo du pool de vélos disponibles
 - Au moment où le vélo est remis en statut ‘disponible’ le système doit ajouter ce vélo dans le pool de vélos disponibles
 
-<h2 id="link03"> 2.- Manageur modifie la flotte de vélos<h2/>
+<h2 id="link03"> 3.- Manageur modifie la flotte de vélos<h2/>
 
 ### Préconditions : ###  
 
