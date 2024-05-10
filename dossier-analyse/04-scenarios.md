@@ -84,6 +84,7 @@ F--|add|-->D
     B-->C(sélectionne vélo)
     C-->D(modifie )
     B-->F(ajoute vélo)
+    F-->A
     D-->A
 
 ````
