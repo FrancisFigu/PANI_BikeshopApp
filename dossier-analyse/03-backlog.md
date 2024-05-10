@@ -4,17 +4,13 @@
 
 - ### Client crée un compte ###  
 
-  En tant que client, je veux pouvoir créer un compte pour gérer mes locations des vélos chez Cyclo.   
+  En tant que client, je veux pouvoir créer un compte pour gérer mes locations des vélos chez Cyclo.
 
- - ### Client fait un log-in ###   
-
-   En tant que client, je veux pouvoir me ‘logger’ pour avoir accès à mon ‘dashboard’.   
-
- - ### Client récupère son mdp ###   
+- ### Client récupère son mdp ###   
 
    En tant que client, je veux pouvoir réinitialiser mon mdp en cas d’oubli.    
 
- - ### Client choisi de rester connecté ###   
+- ### Client choisi de rester connecté ###   
 
    En tant que client, je veux pouvoir rester connecté, pour ne pas devoir me connecter à chaque utilisation.   
 
@@ -24,29 +20,17 @@
 
 ## User stories de réservations de locations - utilisateur client ##    
 
-- ### Client choisi une période de location (dates) ###     
+- ### Client fait une réservation [>> voir scenario](04-scenarios.md#link01) ###      
 
-  En tant qu’utilisateur client, je veux avoir un calendrier pour pouvoir facilement visualiser et choisir les dates de la location.   
+  En tant client, je veux pouvoir faire une réservation pour la location d’un vélo, afin de pouvoir organiser mon activité/voyage avec du temps.      
+- ### Client modifie une réservation ###   
 
-- ### Client choisi un vélo ###   
+  En tant qu’utilisateur client, je veux pouvoir gérer/modifier mes réservations, afin de pouvoir adapter ma location aux besoins.      
 
-  En tant qu’utilisateur client, je veux pouvoir visualiser les vélos disponibles pour louer pendant les dates choisis. Je veux pouvoir cliquer sur un vélo pour voir plus en détail ses spécifications.    
-
-- ### Client choisi un magasin de ‘pickup’ et ‘drop-off’ ###   
-
-   En tant qu’utilisateur client, je veux pouvoir choisir le point de ‘pickup’ et ‘drop-off’ parmi les options disponible.  
-
-- ### Client confirme sélection ###   
-
-   En tant qu’utilisateur client, je veux pouvoir visualiser un résumé de mes sélections, avant de passer au payement.  
 
 ## User stories de gestion de location - utilisateur collaborateur du magasin ##   
 
-- ### Collaborateur check calendrier de locations ### 
-
-  En tant que collaborateur, je veux pouvoir consulter le calendrier de réservations et réservoir des notifications, pour bien organiser mon travail.
-
-- ### Collaborateur change statut d'un vélo (available <--> in-repair)  ### 
+- ### Collaborateur change statut d'un vélo (available <--> in-repair) [>> voir scenario](04-scenarios.md#link02) ###
 
   En tant que collaborateur, je veux pouvoir changer le statut d'un vélo endommagé à 'in-repair' et pouvoir le remettre en état 'available' une fois que la réparation est faite. 
 
@@ -60,7 +44,11 @@
 
 ## User stories d’administration - utilisateur manageur ## 
 
-- ### Manageur vérifie le statu des location ### 
+- ### Manageur modifie la flotte de vélos ### 
+
+  En tant que manageur, je veux pouvoir ajouter, éliminer ou modifier les fiches des vélos enregistrés.
+
+- ### Manageur vérifie le statu des locations ### 
 
   En tant que manageur, je veux pouvoir consulter l’état de toutes les locations de tous les magasins.  
 
@@ -68,9 +56,6 @@
 
   En tant que manageur, je veux pouvoir ajouter, éliminer ou modifier les coordonnées et donnes des magasins, en cas de changements. 
 
-- ### Manageur modifie la flotte de vélos ### 
-
-  En tant que manageur, je veux pouvoir ajouter, éliminer ou modifier les fiches des vélos enregistrés.
 
 
 [>> scenarios](04-scenarios.md)
