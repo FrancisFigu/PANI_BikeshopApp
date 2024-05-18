@@ -48,7 +48,7 @@ En tant qu’utilisateur client, je veux pouvoir envoyer un message facilement a
 
 ## User stories d’administration - utilisateur manageur ## 
 
-- ### Manageur modifie la flotte de vélos ### 
+- ### Manageur modifie la flotte de vélos  [>> voir scenario](04-scenarios.md#link03) ### 
 
   En tant que manageur, je veux pouvoir ajouter, éliminer ou modifier les fiches des vélos enregistrés.
 
