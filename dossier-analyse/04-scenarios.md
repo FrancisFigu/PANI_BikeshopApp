@@ -80,12 +80,11 @@ F--|add|-->D
 ````mermaid
  flowchart TB
     A(dashboard manageur)
-    -->B(sélectionne magasin)
-    B-->C(sélectionne vélo)
-    C-->D(modifie )
-    B-->F(ajoute vélo)
-    F-->A
-    D-->A
+    A-->B(sélectionne vélo)
+    A-->C(ajoute vélo)
+    B-->E(modifie)
+    C-->A
+    E-->A
 
 ````
 ### Séquence d’écrans : ###
