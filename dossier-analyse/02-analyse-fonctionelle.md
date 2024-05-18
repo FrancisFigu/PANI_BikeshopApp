@@ -50,7 +50,8 @@ Les utilisateurs de l’applications sont :
 
   - Create account 
   - Sign-in 
-  - Dashboard 
+  - Dashboard
+  - Profile
   - Choose dates 
   - Choose location 
   - Choose bike 
