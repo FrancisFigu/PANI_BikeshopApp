@@ -64,7 +64,7 @@ En tant qu’utilisateur client, je veux pouvoir envoyer un message facilement a
 
 
 
-[<< analyse fonctionelle](02-analyse-fonctionelle.md)  [>> scenarios](04-scenarios.md)
+[<< analyse fonctionelle](02-analyse-fonctionelle.md)  [scenarios >>](04-scenarios.md)
 
 
 
