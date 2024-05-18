@@ -22,11 +22,15 @@
 
 - ### Client fait une réservation [>> voir scenario](04-scenarios.md#link01) ###      
 
-  En tant client, je veux pouvoir faire une réservation pour la location d’un vélo, afin de pouvoir organiser mon activité/voyage avec du temps.      
+  En tant client, je veux pouvoir faire une réservation pour la location d’un vélo, afin de pouvoir organiser mon activité/voyage avec du temps.
+      
 - ### Client modifie une réservation ###   
 
-  En tant qu’utilisateur client, je veux pouvoir gérer/modifier mes réservations, afin de pouvoir adapter ma location aux besoins.      
-
+  En tant qu’utilisateur client, je veux pouvoir gérer/modifier mes réservations, afin de pouvoir adapter ma location aux besoins.
+  
+- ###  Client notifie un problème  ###
+  
+En tant qu’utilisateur client, je veux pouvoir envoyer un message facilement au magasin, afin de pouvoir être assisté par un collaborateur. 
 
 ## User stories de gestion de location - utilisateur collaborateur du magasin ##   
 
