@@ -75,7 +75,6 @@ F--|add|-->D
 
 - Le manageur est authentifié 
 - Au moins un magasin a été configuré
-- Au moins un vélo a été ajouté comme article de location
    
 ````mermaid
  flowchart TB
@@ -88,16 +87,16 @@ F--|add|-->D
 
 ````
 ### Séquence d’écrans : ###
-<img src="./images/img-dashboard-shop.png" alt="Alt text" style="height:250px;"><img src="./images/img-available.png" alt="Alt text" style="height:250px;"><img src="./images/img-in-repair.png" alt="Alt text" style="height:250px;">
+<img src="./images/img-dashboard-admin.png" alt="screen dashboard admin" style="height:250px;"><img src="./images/img-modify-item.png" alt="screen modify item" style="height:250px;"><img src="./images/img-add-item.png" alt="screen add item" style="height:250px;">
 
-- Dashboard : Collaborateur sélectionne le vélo sur le dashboard 
-- Page vélo : Collaborateur change le statut à ‘in-repair’ sur la page du vélo 
-- Page vélo : Collaborateur change le statut à ‘available’ sur la page du vélo 
+- Dashboard mng/admin : mng a une vu générale..... 
+- Page 'modify rental item' : .... 
+- Page 'add rental item' : ..... 
 
 ### Postconditions : ### 
 
-- Le pool de vélos disponibles est remis en statut ‘disponible'
+- ............
 
 ### Règles métier : ### 
 
-- Les vélos réservés ou loués ne doivent pas être disponibles pour modification de la flotte, le vélo doit d’abord être remis dans le pool de vélos disponibles
+- ...............
