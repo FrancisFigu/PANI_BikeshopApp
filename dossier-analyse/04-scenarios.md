@@ -56,7 +56,7 @@ F--|add|-->D
 
 ````
 ### Séquence d’écrans : ###
-<img src="./images/img-dashboard-magasin2.png" alt="Alt text" style="height:270px;"><img src="./images/img-page-bike-inrepair.png" alt="Alt text" style="height:270px;"><img src="./images/img-page-bike.png" alt="Alt text" style="height:270px;">
+<img src="./images/img-dashboard-magasin2.png" alt="Alt text" style="height:260px;"><img src="./images/img-page-bike-inrepair.png" alt="Alt text" style="height:260px;"><img src="./images/img-page-bike.png" alt="Alt text" style="height:260px;">
 
 - Dashboard : Collaborateur sélectionne le vélo sur le dashboard 
 - Page vélo : Collaborateur change le statut à ‘in-repair’ sur la page du vélo 
@@ -92,7 +92,7 @@ F--|add|-->D
 
 ````
 ### Séquence d’écrans : ###
-<img src="./images/img-manageur-dashboard.png" alt="screen dashboard admin" style="height:250px;"><img src="./images/img-manageur-modify-bike.png" alt="screen modify item" style="height:250px;"><img src="./images/img-manageur-add-bike.png" alt="screen add item" style="height:250px;">
+<img src="./images/img-manageur-dashboard.png" alt="screen dashboard admin" style="height:260px;"><img src="./images/img-manageur-modify-bike.png" alt="screen modify item" style="height:260px;"><img src="./images/img-manageur-add-bike.png" alt="screen add item" style="height:260px;">
 
 - Dashboard mng/admin : mng a une vu générale..... 
 - Page 'modify rental item' : .... 
