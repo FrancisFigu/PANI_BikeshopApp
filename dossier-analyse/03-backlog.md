@@ -1,3 +1,5 @@
+[<< analyse fonctionelle](02-analyse-fonctionelle.md) 
+
 # User stories #  
 
 ## User stories d'authentification - utilisateur client ##   
@@ -62,7 +64,7 @@ En tant qu’utilisateur client, je veux pouvoir envoyer un message facilement a
 
 
 
-[>> scenarios](04-scenarios.md)
+[<< analyse fonctionelle](02-analyse-fonctionelle.md)  [>> scenarios](04-scenarios.md)
 
 
 
