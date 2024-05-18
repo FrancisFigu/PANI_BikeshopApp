@@ -92,7 +92,7 @@ F--|add|-->D
 
 ````
 ### Séquence d’écrans : ###
-<img src="./images/img-manageur-dashboard.png" alt="screen dashboard admin" style="height:250px;"><img src="./images/img-modify-item.png" alt="screen modify item" style="height:250px;"><img src="./images/img-add-item.png" alt="screen add item" style="height:250px;">
+<img src="./images/img-manageur-dashboard.png" alt="screen dashboard admin" style="height:250px;"><img src="./images/img-manageur-modify-bike.png" alt="screen modify item" style="height:250px;"><img src="./images/img-manageur-add-bike.png" alt="screen add item" style="height:250px;">
 
 - Dashboard mng/admin : mng a une vu générale..... 
 - Page 'modify rental item' : .... 
