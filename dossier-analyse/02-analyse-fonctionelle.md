@@ -68,7 +68,7 @@ Les utilisateurs de l’applications sont :
   - Page réservation
   - Page profil client
 
-<img src="./images/img-dashboard-magasin.png" alt="dashboard magasin" style="height:350px;"><img src="./images/img-page-bike.png" alt="page bike" style="height:350px;"><img src="./images/img-page-bike-inrepair.png" alt="Alt text" style="height:350px;"><img src="./images/img-page-booking.png" alt="page booking" style="height:350px;">
+<img src="./images/img-dashboard-magasin2.png" alt="dashboard magasin" style="height:350px;"><img src="./images/img-page-bike.png" alt="page bike" style="height:350px;"><img src="./images/img-page-booking.png" alt="page booking" style="height:350px;"><img src="./images/img-profil-client.png" alt="Alt text" style="height:350px;">
 
 - ### Liste d’écrans du manageur ###
 
