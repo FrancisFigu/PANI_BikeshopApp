@@ -83,4 +83,4 @@ Les utilisateurs de l’applications sont :
 
 <img src="./images/img-manageur-dashboard.png" alt="dashboard" style="height:350px;"><img src="./images/img-manageur-magasin-dashboard.png" alt="dashboard" style="height:350px;"><img src="./images/img-manageur-page-bike.png" alt="page bike" style="height:350px;"><img src="./images/img-manageur-booking-page.png" alt="Alt text" style="height:350px;"><img src="./images/img-manageur-page-client.png" alt="dashboard" style="height:350px;"><img src="./images/img-manageur-modify-bike.png" alt="dashboard" style="height:350px;"><img src="./images/img-manageur-add-bike.png" alt="page bike" style="height:350px;">
 
-[<< introduction](01-introduction.md) [>> backlog](03-backlog.md) 
+[<< introduction](01-introduction.md) [   backlog >>](03-backlog.md) 
