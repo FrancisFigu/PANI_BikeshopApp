@@ -81,6 +81,6 @@ Les utilisateurs de l’applications sont :
   - Page modification vélo 
   - Page création profil vélo
 
- <img src="./images/img-dashboard-magasin2.png" alt="dashboard magasin" style="height:350px;"><img src="./images/img-page-bike.png" alt="page bike" style="height:350px;"><img src="./images/img-page-booking.png" alt="page booking" style="height:350px;"><img src="./images/img-profil-client.png" alt="Alt text" style="height:350px;">
+<img src="./images/img-manageur-dashboard.png" alt="dashboard" style="height:350px;"><img src="./images/img-manageur-magasin-dashboard.png" alt="dashboard" style="height:350px;"><img src="./images/img-manageur-page-bike.png" alt="page bike" style="height:350px;"><img src="./images/img-manageur-booking-page.png" alt="Alt text" style="height:350px;"><img src="./images/img-manageur-page-client.png" alt="dashboard" style="height:350px;"><img src="./images/img-manageur-modify-bike.png" alt="dashboard" style="height:350px;"><img src="./images/img-manageur-add-bike.png" alt="page bike" style="height:350px;">
 
 [>> backlog](03-backlog.md) 
