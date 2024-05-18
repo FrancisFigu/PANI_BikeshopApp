@@ -56,7 +56,7 @@ F--|add|-->D
 
 ````
 ### Séquence d’écrans : ###
-<img src="./images/img-dashboard-magasin2.png" alt="Alt text" style="height:300px;"><img src="./images/img-page-bike-inrepair.png" alt="Alt text" style="height:300px;"><img src="./images/img-page-bike.png" alt="Alt text" style="height:300px;">
+<img src="./images/img-dashboard-magasin2.png" alt="Alt text" style="height:280px;"><img src="./images/img-page-bike-inrepair.png" alt="Alt text" style="height:280px;"><img src="./images/img-page-bike.png" alt="Alt text" style="height:280px;">
 
 - Dashboard : Collaborateur sélectionne le vélo sur le dashboard 
 - Page vélo : Collaborateur change le statut à ‘in-repair’ sur la page du vélo 
