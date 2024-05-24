@@ -80,6 +80,6 @@ Page réservation : Contient les informations d’une réservation, qui correspo
 
 Page profil client : Contient les informations d’un client, qui correspondent aux colonnes de la table ‘client’ de la base de données. Le menu sur la gauche reste inchangé. 
 
-<img src="./images/img-manageur-booking-page.png" alt="Alt text" style="height:350px;"><img src="./images/img-manageur-page-client3.png" alt="dashboard" style="height:350px;">
+<img src="./images/img-manageur-booking-page.png" alt="Alt text" style="height:380px;"><img src="./images/img-manageur-page-client3.png" alt="dashboard" style="height:380px;">
 
 [<< introduction](01-introduction.md) [   backlog >>](03-backlog.md) 
