@@ -77,11 +77,14 @@ Dashboard : Contient des liens vers les différents ‘dashboards’ de différe
 
 Page magasin : Contient un tableau calendrier qui montre les locations actives d’un magasin plus des liens vers les articles de location disponible dans ce magasin. Le menu sur la gauche reste inchangé. En bas à gauche, la page montre le total de location et vélos en réparation de ce magasin. 
 
-<img src="./images/img-manageur-dashboard.png" alt="dashboard" style="height:350px;"><img src="./images/img-manageur-magasin-dashboard.png" alt="dashboard" style="height:350px;">
+<img src="./images/img-manageur-dashboard.png" alt="dashboard" style="height:380px;"><img src="./images/img-manageur-magasin-dashboard.png" alt="dashboard" style="height:380px;">
+
+Pages vélo : Contient les informations de base du vélo qui correspondent aux colonnes de la table ‘bicycle’ de la base de données. La page montre aussi le calendrier de location de l’article. Sur cette page, le manageur a la possibilité d’éditer les informations de l’article ainsi que, en suivant le lien ‘ADD RENTAL ITEM’, d’ajouter un vélo à la flotte.    
+
+<img src="./images/img-manageur-modify-bike.png" alt="dashboard" style="height:380px;"><img src="./images/img-manageur-add-bike.png" alt="page bike" style="height:380px;">
 
 
 
-
-<img src="./images/img-manageur-page-bike.png" alt="page bike" style="height:350px;"><img src="./images/img-manageur-booking-page.png" alt="Alt text" style="height:350px;"><img src="./images/img-manageur-page-client.png" alt="dashboard" style="height:350px;"><img src="./images/img-manageur-modify-bike.png" alt="dashboard" style="height:350px;"><img src="./images/img-manageur-add-bike.png" alt="page bike" style="height:350px;">
+<img src="./images/img-manageur-booking-page.png" alt="Alt text" style="height:350px;"><img src="./images/img-manageur-page-client.png" alt="dashboard" style="height:350px;">
 
 [<< introduction](01-introduction.md) [   backlog >>](03-backlog.md) 
