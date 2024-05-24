@@ -85,6 +85,6 @@ Pages vélo : Contient les informations de base du vélo qui correspondent aux c
 
 
 
-<img src="./images/img-manageur-booking-page.png" alt="Alt text" style="height:350px;"><img src="./images/img-manageur-page-client.png" alt="dashboard" style="height:350px;">
+<img src="./images/img-manageur-booking-page.png" alt="Alt text" style="height:350px;"><img src="./images/img-manageur-page-client2.png" alt="dashboard" style="height:350px;">
 
 [<< introduction](01-introduction.md) [   backlog >>](03-backlog.md) 
