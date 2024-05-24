@@ -1,3 +1,4 @@
+[<< backlog](03-backlog.md) 
 
 # Liste de Scénarios # 
 <h2 id="link01"> 1.- Réservation de locations – utilisateur client<h2/> 
@@ -36,6 +37,8 @@ F--|add|-->D
  - La date de début de la location doit être plus petite que la date de fin 
  - Le nombre de vélos choisis ne doit pas dépasser le nombre de vélos disponibles pour location dans les magasins pour les dates sélectionnées.
 
+[<< backlog](03-backlog.md) 
+
 <h2 id="link02"> 2.- Changement de statut ‘available’ <--> ‘in-repair’ – utilisateur collaborateur du magasin<h2/>
 
 ### Préconditions : ###  
@@ -53,7 +56,7 @@ F--|add|-->D
 
 ````
 ### Séquence d’écrans : ###
-<img src="./images/img-dashboard-shop.png" alt="Alt text" style="height:250px;"><img src="./images/img-available.png" alt="Alt text" style="height:250px;"><img src="./images/img-in-repair.png" alt="Alt text" style="height:250px;">
+<img src="./images/img-dashboard-magasin2.png" alt="Alt text" style="height:260px;"><img src="./images/img-page-bike-inrepair.png" alt="Alt text" style="height:260px;"><img src="./images/img-page-bike.png" alt="Alt text" style="height:260px;">
 
 - Dashboard : Collaborateur sélectionne le vélo sur le dashboard 
 - Page vélo : Collaborateur change le statut à ‘in-repair’ sur la page du vélo 
@@ -68,6 +71,8 @@ F--|add|-->D
 - Le collaborateur doit pouvoir changer le statut d’un vélo à n’importe quel moment 
 - Au moment où le vélo est mis en statut ‘in-repair’ le système doit enlever ce vélo du pool de vélos disponibles
 - Au moment où le vélo est remis en statut ‘disponible’ le système doit ajouter ce vélo dans le pool de vélos disponibles
+  
+[<< backlog](03-backlog.md) 
 
 <h2 id="link03"> 3.- Manageur modifie la flotte de vélos<h2/>
 
@@ -87,7 +92,7 @@ F--|add|-->D
 
 ````
 ### Séquence d’écrans : ###
-<img src="./images/img-dashboard-admin.png" alt="screen dashboard admin" style="height:250px;"><img src="./images/img-modify-item.png" alt="screen modify item" style="height:250px;"><img src="./images/img-add-item.png" alt="screen add item" style="height:250px;">
+<img src="./images/img-manageur-dashboard.png" alt="screen dashboard admin" style="height:260px;"><img src="./images/img-manageur-modify-bike.png" alt="screen modify item" style="height:260px;"><img src="./images/img-manageur-add-bike.png" alt="screen add item" style="height:260px;">
 
 - Dashboard mng/admin : mng a une vu générale..... 
 - Page 'modify rental item' : .... 
@@ -100,3 +105,5 @@ F--|add|-->D
 ### Règles métier : ### 
 
 - ...............
+
+[<< backlog](03-backlog.md)        [database >>](05-database.md) 

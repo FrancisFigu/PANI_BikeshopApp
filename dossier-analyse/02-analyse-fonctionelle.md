@@ -50,7 +50,8 @@ Les utilisateurs de l’applications sont :
 
   - Create account 
   - Sign-in 
-  - Dashboard 
+  - Dashboard
+  - Profile
   - Choose dates 
   - Choose location 
   - Choose bike 
@@ -59,7 +60,7 @@ Les utilisateurs de l’applications sont :
   - Notify a problem 
 
 
-<img src="./images/img-create-account.png" alt="Alt text" style="height:300px;"><img src="./images/img-log-in.png" alt="Alt text" style="height:300px;"><img src="./images/img-dashboard.png" alt="Alt text" style="height:300px;"><img src="./images/img-choose-date.png" alt="Alt text" style="height:300px;"><img src="./images/img-choose-location.png" alt="Alt text" style="height:300px;"><img src="./images/img-choose-bike.png" alt="Alt text" style="height:300px;"><img src="./images/img-confirm.png" alt="Alt text" style="height:300px;"><img src="./images/img-cancel.png" alt="Alt text" style="height:300px;"><img src="./images/img-notify-problem.png" alt="Alt text" style="height:300px;">
+<img src="./images/img-create-account.png" alt="Alt text" style="height:300px;"><img src="./images/img-log-in.png" alt="Alt text" style="height:300px;"><img src="./images/img-dashboard.png" alt="Alt text" style="height:300px;"><img src="./images/img-my-profile.png" alt="Alt text" style="height:300px;"><img src="./images/img-choose-date.png" alt="Alt text" style="height:300px;"><img src="./images/img-choose-location.png" alt="Alt text" style="height:300px;"><img src="./images/img-choose-bike.png" alt="Alt text" style="height:300px;"><img src="./images/img-confirm.png" alt="Alt text" style="height:300px;"><img src="./images/img-cancel.png" alt="Alt text" style="height:300px;"><img src="./images/img-notify-problem.png" alt="Alt text" style="height:300px;">
 
 - ### Liste d'écrans du collaborateur du magasin ### 
 
@@ -68,7 +69,7 @@ Les utilisateurs de l’applications sont :
   - Page réservation
   - Page profil client
 
-<img src="./images/img-dashboard-shop.png" alt="Alt text" style="height:250px;"><img src="./images/img-available.png" alt="Alt text" style="height:250px;"><img src="./images/img-in-repair.png" alt="Alt text" style="height:250px;">
+<img src="./images/img-dashboard-magasin2.png" alt="dashboard magasin" style="height:350px;"><img src="./images/img-page-bike.png" alt="page bike" style="height:350px;"><img src="./images/img-page-booking.png" alt="page booking" style="height:350px;"><img src="./images/img-profil-client.png" alt="Alt text" style="height:350px;">
 
 - ### Liste d’écrans du manageur ###
 
@@ -78,6 +79,8 @@ Les utilisateurs de l’applications sont :
   - Page réservation 
   - Page profil client 
   - Page modification vélo 
-  - Page création profil vélo 
+  - Page création profil vélo
 
-[>> backlog](03-backlog.md) 
+<img src="./images/img-manageur-dashboard.png" alt="dashboard" style="height:350px;"><img src="./images/img-manageur-magasin-dashboard.png" alt="dashboard" style="height:350px;"><img src="./images/img-manageur-page-bike.png" alt="page bike" style="height:350px;"><img src="./images/img-manageur-booking-page.png" alt="Alt text" style="height:350px;"><img src="./images/img-manageur-page-client.png" alt="dashboard" style="height:350px;"><img src="./images/img-manageur-modify-bike.png" alt="dashboard" style="height:350px;"><img src="./images/img-manageur-add-bike.png" alt="page bike" style="height:350px;">
+
+[<< introduction](01-introduction.md) [   backlog >>](03-backlog.md) 
