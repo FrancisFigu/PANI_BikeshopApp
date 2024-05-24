@@ -15,7 +15,7 @@ Les fonctions principales de l’application de gestion de locations de vélos s
 
 - Notifier tous les acteurs à chaque étape 
 
-Sur le diagramme UML ci-dessous, il est possible de visualiser le processus fonctionnel principal que l’application prendra en charge : 
+Sur le diagramme ci-dessous, il est possible de visualiser le processus fonctionnel principal que l’application prendra en charge : 
 
 
 ````mermaid
