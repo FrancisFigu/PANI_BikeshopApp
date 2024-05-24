@@ -44,19 +44,9 @@ Les utilisateurs de l’applications sont :
 - ### L’utilisateur manageur : ###
   Qui gère les flottes de vélos et les magasins où les vélos se trouvent.
 
-## Liste d'ecrans du client ## 
+## Liste d'écrans du client ## 
 
-Create account - Sign-in - Dashboard - Profile  - Choose dates - Choose location - Choose bike - Confirm - Cancel a booking  - Notify a problem 
-   
-  
-  
-  
-  
-  
-  
-  
-  
-
+Les écrans client sont conçues pour un ‘smartphone’ mais elles pourraient facilement être adaptées pour un écran d’ordinateur. Les images ci-dessous montrent les écrans principales étape par étape.  
 
 <img src="./images/img-create-account.png" alt="Alt text" style="height:300px;"><img src="./images/img-log-in.png" alt="Alt text" style="height:300px;"><img src="./images/img-dashboard.png" alt="Alt text" style="height:300px;"><img src="./images/img-my-profile.png" alt="Alt text" style="height:300px;"><img src="./images/img-choose-date.png" alt="Alt text" style="height:300px;"><img src="./images/img-choose-location.png" alt="Alt text" style="height:300px;"><img src="./images/img-choose-bike.png" alt="Alt text" style="height:300px;"><img src="./images/img-confirm.png" alt="Alt text" style="height:300px;"><img src="./images/img-cancel.png" alt="Alt text" style="height:300px;"><img src="./images/img-notify-problem.png" alt="Alt text" style="height:300px;">
 
