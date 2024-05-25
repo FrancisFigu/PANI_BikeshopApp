@@ -53,7 +53,7 @@ Les utilisateurs de l’applications sont :
 ## Liste d'écrans du collaborateur du magasin ##
 
 - Dashboard : Contient un tableau calendrier qui montre les locations actives du magasin plus des liens vers les articles de location disponible dans ce magasin. Sur la gauche on trouve un menu de recherche. En bas à droite, la page montre le total de location et vélos en réparation de ce magasin. 
-
+<a id="link01"></a>
 - Page vélo : Contient les informations de base du vélo qui correspondent aux colonnes de la table ‘bicycle’ de la [base de données](05-database.md). La page montre aussi le calendrier de location de l’article.  Le menu sur la gauche reste inchangé. 
 
 <img src="./images/img-dashboard-magasin2.png" alt="dashboard magasin" style="height:380px;"><img src="./images/img-page-bike.png" alt="page bike" style="height:380px;">
