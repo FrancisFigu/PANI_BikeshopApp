@@ -67,9 +67,9 @@ Page profil client : Contient les informations d’un client, qui correspondent 
 
 ## Liste d’écrans du manageur ##
 
-- Dashboard : Contient des liens vers les différents ‘dashboards’ de différents magasins, ainsi qu’une vue des locations actives, vélos en réparation et disponible dans chaque magasin. La page contient aussi des liens vers les articles de location qui peuvent être triés par id, type, magasin, etc. Sur la gauche on trouve un menu qui permet d'effectuer des recherches et d'ajouter un article ou un magasin. En bas à droite, la page montre le total de location et vélos en réparation.  
+- Dashboard : Contient des liens vers les différents ‘dashboards’ de différents magasins, ainsi qu’une vue des locations actives, vélos en réparation et disponible dans chaque magasin. La page contient aussi des liens vers les articles de location qui peuvent être triés par id, type, magasin, etc. Sur la gauche on trouve un menu qui permet d'effectuer des recherches et d'ajouter un article ou un magasin. En bas à droite, la page montre le total de locations et vélos en réparation.  
 
-- Page magasin : Contient un tableau calendrier qui montre les locations actives d’un magasin plus des liens vers les articles de location disponible dans ce magasin. Le menu sur la gauche reste inchangé. En bas à droite, la page montre le total de location et vélos en réparation de ce magasin. 
+- Page magasin : Contient un tableau calendrier qui montre les locations actives d’un magasin plus des liens vers les articles de location disponible dans ce magasin. Le menu sur la gauche reste inchangé. En bas à droite, la page montre le total de locations et vélos en réparation de ce magasin. 
 
 <img src="./images/img-manageur-dashboard.png" alt="dashboard" style="height:380px;"><img src="./images/img-manageur-magasin-dashboard.png" alt="dashboard" style="height:380px;">
 <a id="link-back-3"></a>
