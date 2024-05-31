@@ -20,6 +20,7 @@ Sur le diagramme ci-dessous, il est possible de visualiser le processus fonction
 
 ````mermaid
  flowchart TD
+start(( ))-->
     A(booking)
     -->B(payement)
     -->C(bike ready for pick-up)
