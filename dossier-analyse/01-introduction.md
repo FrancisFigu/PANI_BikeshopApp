@@ -14,4 +14,4 @@ Expérience client : Pour le moment, les confirmations de réservations ne se fo
 
 Payements : Les payements sont actuellement faits sur place et les cautions sont gérées en liquide. Une application pourrait prendre en charge tous les payements et cautions en avance. 
 
-[>> analyse fonctionelle](02-analyse-fonctionelle.md)
+[analyse fonctionelle >>](02-analyse-fonctionelle.md)

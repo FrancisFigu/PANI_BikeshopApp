@@ -9,6 +9,7 @@
  - Le client est authentifié 
 ````mermaid
  flowchart TB
+start(( ))-->
     A(dashboard client)
     -->B(choose date)
     -->C(choose location)
@@ -49,6 +50,7 @@ F--|add|-->D
 - Le vélo a été ajouté au pool de vélos de location
 ````mermaid
  flowchart TB
+start(( ))-->
     A(dashboard magasin)
     -->B(sélectionne vélo)
     -->C(change statut à 'in-repair')
@@ -86,6 +88,7 @@ F--|add|-->D
    
 ````mermaid
  flowchart TB
+start(( ))-->
     A(dashboard manageur)
     A-->B(sélectionne vélo)
     A-->C(ajoute vélo)

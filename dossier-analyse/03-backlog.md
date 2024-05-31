@@ -18,7 +18,7 @@
 
 - ### Client remplit des coordonnées erronées ###   
 
-  En tant que client, je veux avoir un message d’erreur si je me trompe au moment du log-in. 
+   En tant que client, je veux avoir un message d’erreur si je me trompe au moment du log-in. 
 
 ## User stories de réservations de locations - utilisateur client ##    
 
@@ -32,7 +32,7 @@
   
 - ###  Client notifie un problème  ###
   
-En tant qu’utilisateur client, je veux pouvoir envoyer un message facilement au magasin, afin de pouvoir être assisté par un collaborateur. 
+  En tant qu’utilisateur client, je veux pouvoir envoyer un message facilement au magasin, afin de pouvoir être assisté par un collaborateur. 
 
 ## User stories de gestion de location - utilisateur collaborateur du magasin ##   
 
